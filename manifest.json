@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Indic Language Support",
+    "version": "1.0.0",
+    "description": "Translator",
+    "author": "Ayan Mondal",
+    "icons": {
+        "16": "popup/language-translator-high-resolution-logo.png",
+        "48": "popup/language-translator-high-resolution-logo.png",
+        "128": "popup/language-translator-high-resolution-logo.png"
+    },
+    "action":{
+        "default_popup": "popup/index.html",
+        "default_title": "Indic Language Support"
+    },
+    "permissions": ["activeTab"]
+}
